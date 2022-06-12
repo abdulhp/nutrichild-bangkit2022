@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">NutriChild</string>
+    <string name="month_input">Bulan ke</string>
+    <string name="text_tb">TB</string>
+    <string name="text_bb">BB</string>
+    <string name="text_lka">LKA</string>
+    <string name="text_lkd">LKD</string>
+    <string name="text_lkp">LKP</string>
+    <string name="label_btn_edit">Edit</string>
+    <string name="label_cm">cm</string>
+    <string name="label_kg">kg</string>
 </resources>

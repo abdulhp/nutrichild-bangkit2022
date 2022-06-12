@@ -6,10 +6,17 @@
         <entry key="..\:/Kuliah/Bangkit 2022/NutriChild/app/src/main/res/layout/activity_home.xml" value="0.1490036231884058" />
         <entry key="..\:/Kuliah/Bangkit 2022/NutriChild/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Kuliah/Bangkit 2022/NutriChild/app/src/main/res/layout/activity_splash.xml" value="0.1490036231884058" />
+        <entry key="..\:/latihanandroid/github/lastproject/1/nutrichild-bangkit2022/app/src/main/res/drawable/ic_splashscreen.xml" value="0.14" />
+        <entry key="..\:/latihanandroid/github/lastproject/1/nutrichild-bangkit2022/app/src/main/res/drawable/nutrichild.xml" value="0.195" />
+        <entry key="..\:/latihanandroid/github/lastproject/1/nutrichild-bangkit2022/app/src/main/res/layout/activity_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/latihanandroid/github/lastproject/1/nutrichild-bangkit2022/app/src/main/res/layout/activity_login.xml" value="0.18802083333333333" />
+        <entry key="..\:/latihanandroid/github/lastproject/1/nutrichild-bangkit2022/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/latihanandroid/github/lastproject/1/nutrichild-bangkit2022/app/src/main/res/layout/activity_splash.xml" value="0.18802083333333333" />
+        <entry key="..\:/latihanandroid/github/lastproject/1/nutrichild-bangkit2022/app/src/main/res/layout/item_tracking.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
