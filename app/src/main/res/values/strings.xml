@@ -19,4 +19,5 @@
     <string name="hint_lkp">Lingkar Perut (cm)</string>
     <string name="hint_bulan_input">Bulan Input ke</string>
     <string name="content_desc_btn_input_data">Confirm Input Data</string>
+    <string name="label_btn_restore">Pulihkan</string>
 </resources>

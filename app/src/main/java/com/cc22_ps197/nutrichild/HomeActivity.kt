@@ -15,10 +15,20 @@ class HomeActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         val addButton = binding.fab
+        val historyButton = binding.btnHistory
 
         addButton.setOnClickListener {
             moveToInputPage()
         }
+
+        historyButton.setOnClickListener {
+            moveToHistoryPage()
+        }
+    }
+
+    private fun moveToHistoryPage() {
+        val intent = Intent(this, HistoryActivity::class.java)
+        startActivity(intent)
     }
 
     private fun moveToInputPage() {
